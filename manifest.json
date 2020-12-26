@@ -1,0 +1,7 @@
+{
+  "name": "Figma Boilerplate",
+  "id": "924514877616423865",
+  "api": "1.0.0",
+  "main": "dist/code.js",
+  "ui": "dist/ui.html"
+}
